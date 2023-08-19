@@ -1,10 +1,5 @@
 <Cabbage> bounds(0, 0, 0, 0)
 form caption("ConDevolver") size(400, 350), guiMode("polling"), pluginId("ConD"), colour("black"), bundle("./assets")
-;;;;;;;;form should include bundle command for packing vst with necessary files, etc
-;;;;;;TOOOOO DOOOOOO
-;;;;;;info button
-;;;;;;savestate for vst recall
-;;;;;;remainder of samples
 
 image bounds(40, 8, 322, 89) channel("nameimage") file("./assets/text_top.png") 
 
